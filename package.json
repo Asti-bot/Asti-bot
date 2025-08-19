@@ -1,27 +1,13 @@
 {
   "name": "asti-bot",
   "version": "1.0.0",
-  "description": "Telegram-бот ASTI.K",
+  "description": "ASTI.K Telegram bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "openai": "^4.58.1",
-    "telegraf": "^4.12.2"
-  }
-}{
-  "name": "asti-bot",
-  "version": "1.0.0",
-  "description": "Telegram-бот ASTI.K",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "openai": "^4.58.1",
     "telegraf": "^4.12.2"
   }
 }
