@@ -1,5 +1,5 @@
 {
-  "name": "asti-bot",
+  "name": "asti-k-bot",
   "version": "1.0.0",
   "description": "Телеграм-бот для ASTI Stylist",
   "main": "index.js",
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "telegraf": "^4.12.2",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "openai": "^4.0.0"
   }
 }
